@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.header{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 60px;
+}
+.logo{
+position: absolute;
+width: 27.81px;
+height: 34.76px;
+margin-left: 170px;
+margin-top: 11.78px;
+}
+h1{
+    color: rgb(41, 71, 169);
+font-family: "Work Sans", sans-serif;
+font-size: 21.95px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 205px;
+margin-bottom: 16.44px;
+margin-top: 16.1px;
+position: absolute;
+width: 82px;
+height: 26px;
+}
+.home{
+position: absolute;
+width: 38px;
+height: 15px;
+color: rgb(20, 23, 31);
+font-family: "Work Sans", sans-serif;
+font-size: 18px;
+font-weight: 400;
+text-align: left;
+margin-left: 800px;
+margin-bottom: 16.44px;
+margin-top: 16.1px;
+display: flex;
+align-items: center;
+text-decoration: none;
+}
+.about{
+    position: absolute;
+    width: 90px;
+    height: 15px;
+color: rgb(20, 23, 31);
+font-family: "Work Sans", sans-serif;
+font-size: 18px;
+font-weight: 400;
+text-align: left;
+margin-left: 920px;
+margin-bottom: 16.44px;
+margin-top: 16.1px;
+display: flex;
+align-items: center;
+text-decoration: none;
+}
+.projects{
+    position: absolute;
+    width: 90px;
+    height: 15px;
+color: rgb(20, 23, 31);
+font-family: "Work Sans", sans-serif;
+font-size: 18px;
+font-weight: 400;
+text-align: left;
+margin-left: 1065px;
+margin-bottom: 16.44px;
+margin-top: 16.1px;
+display: flex;
+align-items: center;
+text-decoration: none;
+}
+.services{
+    position: absolute;
+    width: 90px;
+    height: 15px;
+color: rgb(20, 23, 31);
+font-family: "Work Sans", sans-serif;
+font-size: 18px;
+font-weight: 400;
+text-align: left;
+margin-left: 1200px;
+margin-bottom: 16.44px;
+margin-top: 16.1px;
+display: flex;
+align-items: center; 
+text-decoration: none;
+}
+.contact{
+    position: absolute;
+    width: 100px;
+    height: 15px;
+color: rgb(249, 153, 93);
+font-family: "Work Sans", sans-serif;
+font-size: 18px;
+font-weight: 400;
+text-align: left;
+margin-left: 1325px;
+margin-bottom: 16.44px;
+margin-top: 16.1px;
+display: flex;
+align-items: center;
+text-decoration: none;
+}
+.body{
+
+    background-image: url(img/man.png);
+    position: absolute;
+    width: 660.02px;
+    height: 489.53px;
+    margin-left: 350.42px;
+    background-repeat: no-repeat;
+    background-size: 800px;
+    margin-top: 150.15px;
+    box-shadow: 0px 5.85px 5.85px -2.93px rgba(17, 24, 39, 0.04),0px 14.63px 17.56px -2.93px rgba(17, 24, 39, 0.1);
+}
+.aboutus{
+    position: absolute;
+width: 380.09px;
+height: 400.7px;
+left: 614.66px;
+top: 70.56px;
+border-radius: 1.46px;
+box-shadow: 0px 5.85px 5.85px -2.93px rgba(17, 24, 39, 0.04),0px 14.63px 17.56px -2.93px rgba(17, 24, 39, 0.1);
+background: rgb(41, 71, 169);
+}
+h2{
+    color: rgb(255, 255, 255);
+font-family: "Work Sans", sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0%;
+text-align: left;
+position: absolute;
+width: 200px;
+height: 31px;
+margin-left: 29.27px;
+margin-top: 36.59px;
+}
+.text1{
+    color: rgb(255, 255, 255);
+font-family: "Work Sans", sans-serif;
+font-size: 17px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: left;
+position: absolute;
+width: 283.91px;
+height: 208px;
+margin-left: 29.27px;
+margin-top: 94.39px;
+}
+.text2{
+    color: rgb(255, 255, 255);
+font-family: "Work Sans", sans-serif;
+font-size: 17px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 229px;
+margin-left: 29.27px;;
+}
+.button{
+    box-sizing: border-box;
+border: 1.46px solid rgb(41, 71, 169);
+border-radius: 4.39px;
+background: rgb(255, 255, 255);
+position: absolute;
+width: 160.27px;
+height: 38.42px;
+left: 29.27px;
+top: 330.01px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 11.71px 14.63px 11.71px 14.63px
+}
+.text3{
+    position: static;
+width: 131px;
+height: 15px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 11.71px 14.63px 11.71px 14.63px;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 7.31732177734375px;
+color: rgb(41, 71, 169);
+font-family: "Work Sans", sans-serif;
+font-size: 13.17px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: center;
+}
